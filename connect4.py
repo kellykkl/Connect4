@@ -1,13 +1,4 @@
-"""
- Simple graphics demo
- 
- Sample Python/Pygame Programs
- Simpson College Computer Science
- http://programarcadegames.com/
- http://simpson.edu/computer-science/
- 
-"""
- 
+
 #could increaase board size to 9 x 8 
 
 # Import a library of functions called 'pygame'
