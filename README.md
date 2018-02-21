@@ -6,4 +6,4 @@ This is a connect 4 player with a graphic user interface (pygame) so humans can 
 The next step would be to train this connect4 player to adjust the weight vector.
 
 Here is the connect 4 player in action:
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
